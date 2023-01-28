@@ -1,3 +1,5 @@
+package basicos;
+
 import java.util.Scanner;
 
 public class MediaIdade {
